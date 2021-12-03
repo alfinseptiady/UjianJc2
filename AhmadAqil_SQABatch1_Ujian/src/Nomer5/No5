@@ -1,0 +1,15 @@
+a. Suatu method wajib mengembalikan nilai (return value) ke pemanggilnya.
+	fungsi yang ketika kembali ke program utamanya disertai dengan membawa suatu nilai
+	
+b. Suatu method wajib meminta parameter dari pemanggilnya.
+	untuk menampung nilai dalam fungsi
+
+c. Suatu method wajib memiliki parameter dan return value dengan tipe data yang
+sama	Parameter adalah variabel yang menampung nilai untuk diproses di dalam fungsi.
+	Parameter berperan sebagai input untuk fungsi.
+
+d. Suatu method dapat memiliki lebih dari satu parameter
+	Overloading adalah boleh dalam sebuah class memiliki lebih dari satu nama function/method yang sama tetapi memiliki parameter/argument yang beda
+
+e. Suatu method dapat memiliki lebih dari satu return value
+		Polimorfisme
